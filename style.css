@@ -1,0 +1,355 @@
+*{
+margin: 0;
+padding: 0;
+font-family: sans-serif;
+box-sizing: border-box;
+
+}
+body{
+    background: black;
+    color: white;
+    background-size: cover;
+}
+.nav-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.logo {
+    color: pink;
+    width: 150px;
+    height: 50px;
+    font-size: 60px;
+}
+.logo:hover{
+    color: red;
+}
+.nav-item {
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
+.nav-item a{
+ color: white;
+ text-decoration: none;
+ font-size: 18px;
+}
+.nav-item:hover{
+    color: red;
+}
+.span{
+    color:pink;
+}
+#home{
+    height: 80vh;
+}
+.info{
+    margin-left: 7%;
+    margin-top: 15%;
+}
+.info h1{
+    font-size: 60px;
+    color: pink;
+}
+.info h2{
+    font-size: 50px;
+    color: pink;
+}
+.info{
+    font-size: 30px;
+}
+.box-container img{
+    border-radius: 100%;
+    width: 45%;
+    height: 80%;
+    position: absolute;
+    bottom: 0;
+    right: 85px;
+}
+#ABOUT{
+    height:95vh;
+    padding-bottom: 60px;
+    background: pink;
+}
+#ABOUT:hover h1{
+    color:red;
+}
+#ABOUT h1{
+    font-size: 80px;
+    color: black;
+    padding-top: 20px;
+    margin-left: 100px;
+}
+.image-container{
+    justify-content: center;
+    height: 30vh;
+    width: 20vh;
+    padding-bottom: 50px;
+    background-repeat: no-repeat;
+    background-size: 30vh;
+}
+.image-container img{
+    height: 70vh;
+    padding-left: 120px;
+    padding-top: 40px;
+}
+.content p{
+    padding-left: 650px;
+    padding-bottom: 60px;
+    font-size: 30px;
+    color: black;
+    margin: 2%;
+}
+#EXPERIENCE  {
+    color:whitesmoke;
+    padding: 50px;
+    padding-bottom: 0px;
+    margin-top: 30px;
+    font-size: 50px;
+    margin-left: 1%;
+}
+#EXPERIENCE h1:hover{
+    color: red;
+}
+#EXPERIENCE h1{
+    margin-left: 65vh;
+}
+#EXPERIENCE img{
+    border-radius: 100%;
+    width: 400px;
+    height: 400px;
+    margin-left: 300px;
+}
+#EXPERIENCE ul li {
+    justify-content: center;
+    padding: 10px;
+    flex-direction: column;
+    font-family:  sans-serif;
+    font-size:30px;
+    padding-left: 80px;
+    padding-top: 10px;
+}
+
+#TABLE{
+    height: 100vh;
+    background-color: pink;
+}
+#TABLE h1{
+    margin-left: 700px;
+    font-size: 100px;
+    color: black;
+    padding-top: 50px;
+}
+#TABLE h1:hover{
+    color: red;
+}
+.table{
+    padding: 20PX;
+    padding-left: 300px;
+}
+#TABLE table{
+    margin-top: 90px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: grey;
+    width: 80px;
+}
+th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-weight: bold;
+    color:black;
+    padding: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    text-align: center;
+    background-color: orange;
+    font-size: 35px;
+}
+td{
+    border-color: orange;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+    font-size: 30px;
+    text-align: center;
+}
+#CONTACT{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: black;
+    padding: 10px;
+    padding-left: 20px;
+    padding-bottom: 60px;
+    font-family:  sans-serif;
+}
+#CONTACT h3:hover{
+    color: palevioletred;
+}
+#CONTACT h1{
+    color: pink;
+    padding-left: 600px;
+    font-size: 100px;
+}
+#CONTACT h3{
+    padding-left: 600px;
+    color: wheat;
+    font-size: 60px;
+    margin-top: 50px;
+}
+.social-icons{
+    margin-left: 20vh;
+    font-size: 50px;
+    padding-left: 600px;
+    padding-top: 30px;
+}
+.social-icons img{
+    padding: 0px;
+    margin: 0px;
+    height: 60px;
+}
+footer {
+    display: flex;
+    align-items: center;
+    font-size: 50px;
+    height: 50px;
+    background-color: pink;
+}
+footer a{
+    color: red;
+}
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
